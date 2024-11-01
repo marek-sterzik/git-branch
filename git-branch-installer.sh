@@ -20,7 +20,7 @@ install() {
 }
 
 
-curl -s -S -o ~/.git-branch https://raw.githubusercontent.com/marek-sterzik/git-branch/refs/heads/main/git-branch.sh
+curl -s -S -o ~/.git-branch https://raw.githubusercontent.com/marek-sterzik/git-branch/refs/heads/master/git-branch.sh
 
 if [ ! -f ~/.bashrc ]; then
     touch ~/.bashrc

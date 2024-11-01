@@ -11,7 +11,7 @@ Pro zvýšení přehlednosti je vhodné nechat bash automaticky zobrazovat aktu�
 
 Just call:
 ```
-curl -sS https://raw.githubusercontent.com/marek-sterzik/git-branch/refs/heads/main/git-branch-installer.sh | bash
+curl -sS https://raw.githubusercontent.com/marek-sterzik/git-branch/refs/heads/master/git-branch-installer.sh | bash
 ```
 
 ### Manual way
